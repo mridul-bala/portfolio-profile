@@ -16,11 +16,6 @@
 
 <body>
 
-    https://www.facebook.com/share/1NSQFheVuA/
-    Message MKB on WhatsApp. https://wa.me/8801734700943
-    Message MKB on WhatsApp. https://wa.me/8801734700943
-    https://www.linkedin.com/in/mridul-kumer-bala-08625a17b/
-
     <!-- Sticky Navigation -->
     <header class="navbar">
         <div class="logo">MB<span>.</span></div>
